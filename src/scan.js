@@ -1,3 +1,4 @@
+//scan.js
 import React, { useState, useRef } from 'react';
 import './scan.css';
 import Webcam from 'react-webcam';
